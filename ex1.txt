@@ -1,1 +1,4 @@
 HI this is ex1
+modified text in ex1.
+added next line
+new commit 
